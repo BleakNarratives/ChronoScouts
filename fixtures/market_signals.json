@@ -1,0 +1,29 @@
+[
+  {
+    "ticker": "TSLA",
+    "scout_type": "distress",
+    "severity": "CRITICAL",
+    "summary": "Debt covenant breach disclosed in 10-Q filing",
+    "signals": ["covenant breach", "liquidity strain"],
+    "confidence": 0.92,
+    "timestamp": "2026-10-12T00:00:00Z"
+  },
+  {
+    "ticker": "NVDA",
+    "scout_type": "distress",
+    "severity": "WARNING",
+    "summary": "Custom ASIC displacement accelerating across key cloud accounts",
+    "signals": ["pricing war", "market share erosion"],
+    "confidence": 0.78,
+    "timestamp": "2026-10-12T00:00:00Z"
+  },
+  {
+    "ticker": "RBI",
+    "scout_type": "distress",
+    "severity": "WARNING",
+    "summary": "Regional bank compliance probe referenced in regulatory audit",
+    "signals": ["probe", "enhanced oversight"],
+    "confidence": 0.65,
+    "timestamp": "2026-10-12T00:00:00Z"
+  }
+]
